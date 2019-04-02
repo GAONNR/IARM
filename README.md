@@ -11,6 +11,7 @@ This method attempts to model the relationship among the different aspect-terms 
 - Python 2.7
 - PyTorch 0.3
 - Keras 1.0
+- GloVe - glove.840B.300d.txt (Please set path to the file in options.py)
 
 ## Execution
 
